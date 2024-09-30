@@ -1,0 +1,62 @@
+[
+  {
+    "id": "io.metamask",
+    "name": "MetaMask",
+    "icon": "/assets/icons/MetaMask - jpeg.png"
+  },
+  {
+    "id": "com.coinbasewallet",
+    "name": "Coinbase",
+    "icon": "/assets/icons/Coinbase.png"
+  },
+  {
+    "id": "xyz.rainbow",
+    "name": "Phantom",
+    "icon": "/assets/icons/Phantom.png"
+  },
+  {
+    "id": "com.trustwallet.app",
+    "name": "Trust Wallet",
+    "icon": "/assets/icons/Trust_wallet.png"
+  },
+  {
+    "id": "com.exodus",
+    "name": "Exodus",
+    "icon": "/assets/icons/Exodus.png"
+  },
+  {
+    "id": "xyz.argent",
+    "name": "Argent",
+    "icon": "/assets/icons/Argent - jpeg.png"
+  },
+  {
+    "id": "me.rainbow",
+    "name": "Rainbow",
+    "icon": "/assets/icons/Rainbow - png.png"
+  },
+  {
+    "id": "com.bluewallet",
+    "name": "Blue Wallet",
+    "icon": "/assets/icons/Blue_wallet.png"
+  },
+  {
+    "id": "com.trezor",
+    "name": "Trezor",
+    "icon": "/assets/icons/Trezor.png"
+  },
+  {
+    "id": "com.keepkey",
+    "name": "Keep Key",
+    "icon": "/assets/icons/keep_key.png"
+  },
+  {
+    "id": "com.ledger",
+    "name": "Ledger",
+    "icon": "/assets/icons/Ledger.png"
+  },
+  {
+    "id": "global.safe",
+    "name": "Gnosis",
+    "icon": "/assets/icons/Gnosis Safe - jpeg.png"
+  }
+]
